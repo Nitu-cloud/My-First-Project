@@ -1,0 +1,12 @@
+git config --global user.email "ayusisinghnitu@gmail.com"
+git config --global user.name "Nitu Kumari"
+
+
+git init
+git add [filename]|| -A
+git status
+git commit -m "msg"
+git tremote add origin repoName
+git push origin master
+git clone reponame
+git pull origin master
